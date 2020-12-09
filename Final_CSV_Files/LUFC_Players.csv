@@ -1,0 +1,26 @@
+playerID,PlayerName,ShirtNumber,Nationality,Positions,MatchesPlayed,TotalMinutesPlayed,Goals,Assists,RecuringInjuries,Injured,Active
+1,llan Meslier,,fr FRA,GK,11,990,0,0,N/A,FALSE,TRUE
+2,Stuart Dallas,,nir NIR,"DF,MF",11,980,1,0,N/A,FALSE,TRUE
+3,Luke Ayling,,eng ENG,DF,11,969,0,0,N/A,FALSE,TRUE
+4,Mateusz Klich,,pl POL,MF,11,966,2,3,N/A,FALSE,TRUE
+5,Patrick Bamford,,eng ENG,FW,11,939,8,1,N/A,FALSE,TRUE
+6,Robin Koch,,de GER,DF,11,908,0,0,N/A,FALSE,TRUE
+7,Jack Harrison,,eng ENG,"MF,DF",10,844,1,3,N/A,FALSE,TRUE
+8,Liam Cooper,,sco SCO,DF,8,720,0,0,N/A,FALSE,TRUE
+9,Kalvin Phillips,,eng ENG,MF,8,720,0,2,N/A,FALSE,TRUE
+10,Hélder Costa,,pt POR,"MF,DF",9,624,2,2,N/A,FALSE,TRUE
+11,Ezgjan Alioski,,mk MKD,"DF,MF",9,505,0,0,N/A,FALSE,TRUE
+12,Pascal Struijk,,nl NED,"DF,MF",4,254,0,0,N/A,FALSE,TRUE
+13,Rodrigo,,es ESP,"MF,FW",9,365,1,0,N/A,FALSE,TRUE
+14,Raphael Dias Belloli,,br BRA,MF,6,326,1,0,N/A,FALSE,TRUE
+15,Tyler Roberts,,wal WAL,"MF,FW",6,218,0,0,N/A,FALSE,TRUE
+16,Pablo Hernández,,es ESP,MF,4,155,0,0,N/A,FALSE,TRUE
+17,Jamie Shackleton,,eng ENG,MF,3,125,0,0,N/A,FALSE,TRUE
+18,Ian Carlo Poveda,,eng ENG,"MF,DF",7,186,0,0,N/A,FALSE,TRUE
+19,Diego Llorente,,es ESP,DF,1,82,0,0,N/A,FALSE,TRUE
+20,Leif Davis,,eng ENG,DF,1,14,0,0,N/A,FALSE,TRUE
+21,Mateusz Bogusz,,pl POL,MF,0,,,,N/A,FALSE,TRUE
+22,Elia Caprile,,it ITA,GK,0,,,,N/A,FALSE,TRUE
+23,Oliver Casey,,eng ENG,DF,0,,,,N/A,FALSE,TRUE
+24,Kiko Casilla,,es ESP,GK,0,,,,N/A,FALSE,TRUE
+25,Jack Jenkins,,eng ENG,MF,0,,,,N/A,FALSE,TRUE

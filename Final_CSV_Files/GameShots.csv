@@ -1,0 +1,325 @@
+EventID,MatchID,Minute,Player,Squad,Outcome,Distance,Body Part,Notes,AssistPlayer1,Event1,AssistPlayer2,Event2
+1,255,3,Mohamed Salah,Liverpool,Blocked,17,Left Foot,,Sadio Mané,Pass (Live),,
+2,255,4,Mohamed Salah (pen),Liverpool,Goal,12,Left Foot,,Mohamed Salah,Shot,,
+3,255,7,Mohamed Salah,Liverpool,Blocked,19,Left Foot,,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+4,255,12,Jack Harrison,Leeds United,Goal,17,Right Foot,,Jack Harrison,Dribble,Jack Harrison,Dribble
+5,255,20,Virgil van Dijk,Liverpool,Goal,5,Head,,Andrew Robertson,Pass (Dead),,
+6,255,25,Jordan Henderson,Liverpool,Saved,28,Right Foot,Half volley,Sadio Mané,Pass (Live),Naby Keïta,Pass (Live)
+7,255,29,Naby Keïta,Liverpool,Blocked,8,Right Foot,Half volley,,,,
+8,255,30,Patrick Bamford,Leeds United,Goal,14,Right Foot,,,,,
+9,255,33,Mohamed Salah,Liverpool,Goal,15,Left Foot,Half volley,,,,
+10,255,40,Sadio Mané,Liverpool,Blocked,17,Right Foot,,Georginio Wijnaldum,Pass (Live),Naby Keïta,Pass (Live)
+11,255,40,Sadio Mané,Liverpool,Blocked,15,Left Foot,Half volley,Sadio Mané,Shot,,
+12,255,49,Georginio Wijnaldum,Liverpool,Saved,9,Right Foot,,Sadio Mané,Pass (Live),Roberto Firmino,Pass (Live)
+13,255,50,Patrick Bamford,Leeds United,Blocked,25,Right Foot,,,,,
+14,255,53,Mohamed Salah,Liverpool,Blocked,8,Right Foot,Half volley,Trent Alexander-Arnold,Pass (Dead),,
+15,255,53,Virgil van Dijk,Liverpool,Off Target,9,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Shot
+16,255,60,Mohamed Salah,Liverpool,Blocked,17,Left Foot,,Georginio Wijnaldum,Pass (Live),,
+17,255,62,Sadio Mané,Liverpool,Off Target,23,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+18,255,66,Mateusz Klich,Leeds United,Goal,11,Right Foot,Half volley,Hélder Costa,Pass (Live),Mateusz Klich,Pass (Live)
+19,255,68,Sadio Mané,Liverpool,Blocked,16,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+20,255,71,Sadio Mané,Liverpool,Blocked,22,Right Foot,,Sadio Mané,Dribble,Mohamed Salah,Pass (Live)
+21,255,71,Mohamed Salah,Liverpool,Off Target,17,Right Foot,Volley,,,,
+22,255,76,Kalvin Phillips,Leeds United,Off Target,29,Right Foot,Free kick,Jack Harrison,Fouled,,
+23,255,78,Georginio Wijnaldum,Liverpool,Blocked,15,Right Foot,,Mohamed Salah,Pass (Live),Curtis Jones,Pass (Live)
+24,255,80,Mohamed Salah,Liverpool,Blocked,21,Left Foot,,Curtis Jones,Pass (Live),,
+25,255,85,Roberto Firmino,Liverpool,Blocked,23,Left Foot,Half volley,,,,
+26,255,87,Roberto Firmino,Liverpool,Blocked,12,Right Foot,,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+27,255,88,Mohamed Salah (pen),Liverpool,Goal,12,Left Foot,,Fabinho,Fouled,,
+28,255,91,Robin Koch,Leeds United,Blocked,8,Head,,Kalvin Phillips,Pass (Live),,
+29,257,3,Joe Bryan,Fulham,Off Target,32,Left Foot,Free kick,Aleksandar Mitrović,Fouled,Michael Hector,Pass (Live)
+30,257,5,Hélder Costa,Leeds United,Goal,10,Left Foot,Half volley,,,,
+31,257,13,Michael Hector,Fulham,Blocked,10,Head,,Ivan Cavaleiro,Pass (Dead),Andre-Frank Zambo Anguissa,Pass (Live)
+32,257,14,Harrison Reed,Fulham,Off Target,24,Right Foot,Half volley,,,,
+33,257,22,Andre-Frank Zambo Anguissa,Fulham,Blocked,28,Right Foot,,,,,
+34,257,26,Robin Koch,Leeds United,Saved,8,Head,,Kalvin Phillips,Pass (Dead),,
+35,257,35,Aleksandar Mitrović (pen),Fulham,Goal,12,Right Foot,,Joe Bryan,Fouled,Ivan Cavaleiro,Pass (Live)
+36,257,41,Mateusz Klich (pen),Leeds United,Goal,12,Right Foot,,Patrick Bamford,Fouled,Mateusz Klich,Pass (Live)
+37,257,46,Harrison Reed,Fulham,Saved,32,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Josh Onomah,Pass (Live)
+38,257,50,Patrick Bamford,Leeds United,Goal,17,Right Foot,,Mateusz Klich,Pass (Live),Liam Cooper,Pass (Live)
+39,257,53,Aleksandar Mitrović,Fulham,Saved,22,Right Foot,,Harrison Reed,Pass (Live),Ivan Cavaleiro,Tackle
+40,257,57,Hélder Costa,Leeds United,Goal,13,Left Foot,,Patrick Bamford,Pass (Live),Jack Harrison,Pass (Live)
+41,257,62,Bobby Reid,Fulham,Goal,15,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Andre-Frank Zambo Anguissa,Dribble
+42,257,66,Robin Koch,Leeds United,Off Target,7,Head,,Kalvin Phillips,Pass (Dead),Tyler Roberts,Fouled
+43,257,67,Aleksandar Mitrović,Fulham,Blocked,19,Right Foot,,Ivan Cavaleiro,Pass (Live),Aleksandar Mitrović,Pass (Live)
+44,257,67,Aleksandar Mitrović,Fulham,Goal,7,Head,,Kenny Tete,Pass (Live),Aleksandar Mitrović,Shot
+45,257,69,Neeskens Kebano,Fulham,Woodwork,18,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Denis Odoi,Pass (Live)
+46,257,70,Aleksandar Mitrović,Fulham,Off Target,10,Head,Diving header,Kenny Tete,Pass (Live),Ivan Cavaleiro,Pass (Live)
+47,257,74,Ezgjan Alioski,Leeds United,Saved,18,Left Foot,Half volley,Tyler Roberts,Pass (Live),Ezgjan Alioski,Pass (Live)
+48,257,74,Tyler Roberts,Leeds United,Saved,19,Right Foot,,,,,
+49,257,75,Aleksandar Mitrović,Fulham,Saved,17,Right Foot,Volley,,,,
+50,257,75,Jack Harrison,Leeds United,Off Target,16,Left Foot,,Illan Meslier,Pass (Live),,
+51,257,87,Jack Harrison,Leeds United,Blocked,25,Left Foot,Free kick,Tyler Roberts,Fouled,Tyler Roberts,Dribble
+52,257,94,Denis Odoi,Fulham,Off Target,25,Left Foot,,Michael Hector,Pass (Live),,
+53,258,4,Luke Ayling,Leeds United,Saved,23,Right Foot,,Luke Ayling,Dribble,Kalvin Phillips,Pass (Live)
+54,258,6,John Lundstram,Sheffield Utd,Off Target,16,Left Foot,,Oliver Burke,Pass (Live),David McGoldrick,Pass (Live)
+55,258,23,John Lundstram,Sheffield Utd,Blocked,25,Left Foot,,Oliver Burke,Pass (Live),Sander Berge,Pass (Live)
+56,258,26,Patrick Bamford,Leeds United,Off Target,8,Head,,Kalvin Phillips,Pass (Dead),Hélder Costa,Fouled
+57,258,27,Mateusz Klich,Leeds United,Blocked,25,Right Foot,,Jack Harrison,Pass (Live),Tyler Roberts,Pass (Live)
+58,258,28,Jack Robinson,Sheffield Utd,Off Target,15,Head,Diving header,John Lundstram,Pass (Dead),David McGoldrick,Fouled
+59,258,29,John Lundstram,Sheffield Utd,Saved,12,Right Foot,,David McGoldrick,Pass (Live),Ben Osborn,Pass (Live)
+60,258,31,Patrick Bamford,Leeds United,Off Target,12,Head,,Jack Harrison,Pass (Live),Kalvin Phillips,Pass (Live)
+61,258,35,Oliver Burke,Sheffield Utd,Blocked,12,Right Foot,,,,,
+62,258,35,David McGoldrick,Sheffield Utd,Off Target,22,Left Foot,,Oliver Burke,Pass (Live),Oliver Burke,Tackle
+63,258,38,Stuart Dallas,Leeds United,Saved,22,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+64,258,38,Liam Cooper,Leeds United,Off Target,9,Head,,Kalvin Phillips,Pass (Dead),Stuart Dallas,Shot
+65,258,40,George Baldock,Sheffield Utd,Saved,15,Right Foot,,Ben Osborn,Pass (Live),Jack Robinson,Pass (Live)
+66,258,44,Oliver Burke,Sheffield Utd,Blocked,20,Right Foot,,John Lundstram,Pass (Live),Enda Stevens,Pass (Live)
+67,258,47,Hélder Costa,Leeds United,Saved,18,Left Foot,Volley,,,,
+68,258,55,Mateusz Klich,Leeds United,Saved,22,Right Foot,,Hélder Costa,Pass (Live),Luke Ayling,Pass (Live)
+69,258,56,Patrick Bamford,Leeds United,Saved,11,Right Foot,,Kalvin Phillips,Tackle,,
+70,258,59,Enda Stevens,Sheffield Utd,Saved,25,Left Foot,,John Lundstram,Pass (Live),Enda Stevens,Pass (Live)
+71,258,61,Stuart Dallas,Leeds United,Blocked,16,Right Foot,,Luke Ayling,Pass (Live),Robin Koch,Pass (Live)
+72,258,61,Luke Ayling,Leeds United,Off Target,30,Right Foot,,Kalvin Phillips,Pass (Live),Mateusz Klich,Pass (Live)
+73,258,66,Rodrigo,Leeds United,Off Target,11,Head,,Stuart Dallas,Pass (Live),Jack Harrison,Pass (Live)
+74,258,69,Ben Osborn,Sheffield Utd,Blocked,16,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Dribble
+75,258,69,Rodrigo,Leeds United,Blocked,22,Left Foot,,Mateusz Klich,Pass (Live),Kalvin Phillips,Pass (Live)
+76,258,73,Rodrigo,Leeds United,Saved,20,Left Foot,,Mateusz Klich,Pass (Live),Rodrigo,Pass (Live)
+77,258,75,Ian Carlo Poveda,Leeds United,Blocked,18,Left Foot,,Mateusz Klich,Pass (Live),Patrick Bamford,Pass (Live)
+78,258,78,Ian Carlo Poveda,Leeds United,Saved,24,Left Foot,,Patrick Bamford,Pass (Live),Rodrigo,Pass (Live)
+79,258,81,George Baldock,Sheffield Utd,Blocked,19,Left Foot,,Sander Berge,Pass (Live),Sander Berge,Tackle
+80,258,81,Jack Robinson,Sheffield Utd,Off Target,5,Right Foot,Volley,Ben Osborn,Pass (Dead),George Baldock,Shot
+81,258,86,Stuart Dallas,Leeds United,Saved,29,Right Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+82,258,86,Billy Sharp,Sheffield Utd,Blocked,15,Left Foot,Half volley,Aaron Ramsdale,Pass (Live),,
+83,258,88,Patrick Bamford,Leeds United,Goal,6,Head,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+84,259,1,Kyle Walker,Manchester City,Blocked,30,Right Foot,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+85,259,2,Raheem Sterling,Manchester City,Off Target,25,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+86,259,3,Kevin De Bruyne,Manchester City,Woodwork,36,Right Foot,Free kick,Raheem Sterling,Fouled,Kevin De Bruyne,Pass (Live)
+87,259,11,Kevin De Bruyne,Manchester City,Blocked,20,Right Foot,,Kevin De Bruyne,Dribble,,
+88,259,12,Rúben Dias,Manchester City,Off Target,5,Head,,Riyad Mahrez,Pass (Dead),Kevin De Bruyne,Shot
+89,259,13,Ferrán Torres,Manchester City,Blocked,18,Right Foot,,,,,
+90,259,14,Ezgjan Alioski,Leeds United,Off Target,7,Head,,Luke Ayling,Pass (Live),Hélder Costa,Pass (Live)
+91,259,16,Ferrán Torres,Manchester City,Blocked,9,Left Foot,,Raheem Sterling,Dribble,Phil Foden,Pass (Live)
+92,259,17,Raheem Sterling,Manchester City,Goal,16,Right Foot,,Raheem Sterling,Dribble,Ferrán Torres,Pass (Live)
+93,259,21,Kevin De Bruyne,Manchester City,Blocked,14,Left Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Dribble
+94,259,21,Aymeric Laporte,Manchester City,Off Target,8,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+95,259,22,Phil Foden,Manchester City,Off Target,17,Left Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Tackle
+96,259,24,Patrick Bamford,Leeds United,Off Target,14,Left Foot,,Hélder Costa,Pass (Live),Mateusz Klich,Pass (Live)
+97,259,37,Stuart Dallas,Leeds United,Saved,5,Right Foot,,Tyler Roberts,Pass (Live),Patrick Bamford,Pass (Live)
+98,259,39,Phil Foden,Manchester City,Off Target,15,Left Foot,,Phil Foden,Dribble,Riyad Mahrez,Pass (Live)
+99,259,46,Luke Ayling,Leeds United,Saved,9,Left Foot,,Luke Ayling,Dribble,,
+100,259,46,Patrick Bamford,Leeds United,Blocked,9,Left Foot,,Ian Carlo Poveda,Pass (Live),Ian Carlo Poveda,Dribble
+101,259,55,Raheem Sterling,Manchester City,Blocked,17,Right Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Live)
+102,259,58,Rodrigo,Leeds United,Blocked,11,Left Foot,,Mateusz Klich,Pass (Live),Hélder Costa,Pass (Live)
+103,259,59,Rodrigo,Leeds United,Goal,5,Right Foot,Half volley,Rodrigo,Shot,,
+104,259,64,Kalvin Phillips,Leeds United,Saved,25,Right Foot,,Mateusz Klich,Pass (Live),Stuart Dallas,Pass (Live)
+105,259,64,Kevin De Bruyne,Manchester City,Off Target,22,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+106,259,66,Riyad Mahrez,Manchester City,Off Target,16,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+107,259,67,Riyad Mahrez,Manchester City,Off Target,18,Left Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+108,259,69,Rodrigo,Leeds United,Saved to Post,12,Head,,,,,
+109,259,73,Hélder Costa,Leeds United,Blocked,19,Right Foot,,Hélder Costa,Dribble,Rodrigo,Pass (Live)
+110,259,74,Patrick Bamford,Leeds United,Saved,6,Left Foot,Half volley,Rodrigo,Pass (Live),Mateusz Klich,Pass (Live)
+111,259,74,Phil Foden,Manchester City,Blocked,16,Left Foot,,Kyle Walker,Pass (Live),Aymeric Laporte,Pass (Live)
+112,259,80,Kevin De Bruyne,Manchester City,Blocked,17,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+113,259,81,Fernandinho,Manchester City,Off Target,30,Right Foot,,Fernandinho,Dribble,Nathan Aké,Pass (Live)
+114,259,82,Bernardo Silva,Manchester City,Off Target,18,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+115,259,82,Bernardo Silva,Manchester City,Blocked,9,Left Foot,,Phil Foden,Dribble,Phil Foden,Dribble
+116,259,85,Raheem Sterling,Manchester City,Off Target,21,Right Foot,,Raheem Sterling,Dribble,Bernardo Silva,Pass (Live)
+117,259,86,Patrick Bamford,Leeds United,Saved,15,Left Foot,,Stuart Dallas,Pass (Live),Leif Davis,Pass (Live)
+118,259,88,Raheem Sterling,Manchester City,Off Target,7,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+119,260,4,Patrick Bamford,Leeds United,Off Target,15,Left Foot,,Rodrigo,Pass (Live),Mateusz Klich,Pass (Live)
+120,260,5,Patrick Bamford,Leeds United,Saved,12,Head,,Mateusz Klich,Pass (Live),Robin Koch,Pass (Live)
+121,260,9,Rodrigo,Leeds United,Off Target,7,Head,,Luke Ayling,Pass (Live),Mateusz Klich,Pass (Live)
+122,260,16,Hélder Costa,Leeds United,Off Target,21,Right Foot,,Rodrigo,Pass (Live),Rodrigo,Dribble
+123,260,31,Luke Ayling,Leeds United,Blocked,17,Right Foot,Half volley,,,,
+124,260,32,Rodrigo,Leeds United,Off Target,9,Head,,Luke Ayling,Pass (Live),Robin Koch,Pass (Live)
+125,260,35,Raúl Jiménez,Wolves,Off Target,6,Right Foot,Volley,João Moutinho,Pass (Dead),,
+126,260,37,Patrick Bamford,Leeds United,Off Target,7,Left Foot,,Jack Harrison,Pass (Live),Kalvin Phillips,Pass (Live)
+127,260,40,Jack Harrison,Leeds United,Blocked,18,Left Foot,,Kalvin Phillips,Pass (Dead),Mateusz Klich,Pass (Live)
+128,260,40,Rodrigo,Leeds United,Saved,11,Left Foot,Half volley,,,,
+129,260,47,Daniel Podence,Wolves,Saved,13,Right Foot,,Romain Saïss,Pass (Live),Leander Dendoncker,Pass (Live)
+130,260,56,Daniel Podence,Wolves,Saved,21,Left Foot,,Leander Dendoncker,Pass (Live),Daniel Podence,Pass (Live)
+131,260,58,Hélder Costa,Leeds United,Saved off Target,9,Head,,Jack Harrison,Pass (Live),Luke Ayling,Pass (Live)
+132,260,70,Raúl Jiménez,Wolves,Goal,21,Right Foot,Deflected,Raúl Jiménez,Dribble,Max Kilman,Pass (Live)
+133,260,74,Pedro Neto,Wolves,Blocked,16,Left Foot,,Adama Traoré,Pass (Live),Adama Traoré,Fouled
+134,260,80,Pablo Hernández,Leeds United,Wayward,9,Head,,Luke Ayling,Pass (Live),Mateusz Klich,Pass (Live)
+135,260,80,Pablo Hernández,Leeds United,Blocked,11,Right Foot,,Jack Harrison,Pass (Live),Pablo Hernández,Shot
+136,260,83,Ian Carlo Poveda,Leeds United,Blocked,9,Right Foot,,,,,
+137,260,92,Rúben Neves,Wolves,Blocked,24,Right Foot,,Leander Dendoncker,Pass (Live),Raúl Jiménez,Tackle
+138,260,92,Rúben Neves,Wolves,Blocked,15,Left Foot,,Rúben Neves,Shot,,
+139,261,2,Hélder Costa,Leeds United,Blocked,18,Left Foot,,Rodrigo,Pass (Live),,
+140,261,4,Patrick Bamford,Leeds United,Off Target,15,Head,Diving header,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+141,261,12,Rodrigo,Leeds United,Blocked,9,Left Foot,,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+142,261,13,Ezgjan Alioski,Leeds United,Saved,26,Left Foot,,,,,
+143,261,14,Rodrigo,Leeds United,Wayward,9,Left Foot,Half volley,Hélder Costa,Pass (Live),Mateusz Klich,Pass (Live)
+144,261,17,Ross Barkley,Aston Villa,Saved,28,Right Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Tackle
+145,261,18,Patrick Bamford,Leeds United,Saved off Target,18,Left Foot,Volley,Mateusz Klich,Pass (Live),,
+146,261,24,Stuart Dallas,Leeds United,Off Target,28,Right Foot,,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+147,261,26,Trézéguet,Aston Villa,Wayward,12,Right Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Tackle
+148,261,26,Jack Grealish,Aston Villa,Blocked,11,Left Foot,,Trézéguet,Shot,,
+149,261,26,John McGinn,Aston Villa,Off Target,27,Left Foot,,Douglas Luiz,Pass (Live),,
+150,261,31,Patrick Bamford,Leeds United,Blocked,8,Left Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+151,261,32,Patrick Bamford,Leeds United,Off Target,6,Head,,Mateusz Klich,Pass (Dead),,
+152,261,37,Ollie Watkins,Aston Villa,Blocked,17,Left Foot,,Ross Barkley,Pass (Live),Ross Barkley,Dribble
+153,261,39,Rodrigo,Leeds United,Off Target,25,Left Foot,,Stuart Dallas,Pass (Live),Jamie Shackleton,Pass (Live)
+154,261,44,Patrick Bamford,Leeds United,Off Target,14,Right Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+155,261,47,Jack Harrison,Leeds United,Saved,18,Right Foot,,Luke Ayling,Pass (Live),Illan Meslier,Pass (Live)
+156,261,49,Hélder Costa,Leeds United,Blocked,19,Left Foot,,Rodrigo,Pass (Live),Mateusz Klich,Pass (Live)
+157,261,49,Ezgjan Alioski,Leeds United,Off Target,17,Right Foot,,Hélder Costa,Shot,,
+158,261,52,Jack Grealish,Aston Villa,Saved,8,Right Foot,,,,,
+159,261,54,Ezri Konsa,Aston Villa,Saved,10,Right Foot,Volley,Ross Barkley,Pass (Dead),Ross Barkley,Pass (Dead)
+160,261,55,Rodrigo,Leeds United,Saved,16,Left Foot,,Jack Harrison,Pass (Live),Ezgjan Alioski,Pass (Live)
+161,261,55,Patrick Bamford,Leeds United,Goal,4,Left Foot,,Rodrigo,Shot,,
+162,261,63,Mateusz Klich,Leeds United,Blocked,19,Left Foot,Volley,Hélder Costa,Pass (Live),Jamie Shackleton,Pass (Live)
+163,261,63,Robin Koch,Leeds United,Off Target,10,Right Foot,Half volley,Mateusz Klich,Shot,,
+164,261,67,Patrick Bamford,Leeds United,Goal,20,Left Foot,,Mateusz Klich,Pass (Live),Mateusz Klich,Dribble
+165,261,68,Ross Barkley,Aston Villa,Blocked,22,Left Foot,,Ollie Watkins,Pass (Live),Emiliano Martínez,Pass (Live)
+166,261,71,Mateusz Klich,Leeds United,Saved,27,Left Foot,Half volley,,,,
+167,261,72,Stuart Dallas,Leeds United,Saved,14,Right Foot,,Hélder Costa,Pass (Live),Stuart Dallas,Pass (Live)
+168,261,74,Patrick Bamford,Leeds United,Goal,12,Left Foot,,Patrick Bamford,Dribble,Hélder Costa,Pass (Live)
+169,261,75,Matt Targett,Aston Villa,Blocked,14,Left Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+170,261,77,Ross Barkley,Aston Villa,Off Target,30,Right Foot,,Tyrone Mings,Pass (Live),Tyrone Mings,Dribble
+171,261,78,Rodrigo,Leeds United,Off Target,26,Left Foot,Free kick,Rodrigo,Fouled,Mateusz Klich,Pass (Live)
+172,261,81,Pablo Hernández,Leeds United,Wayward,18,Right Foot,,Jack Harrison,Pass (Live),Pablo Hernández,Pass (Live)
+173,261,84,Pablo Hernández,Leeds United,Off Target,15,Right Foot,,Jack Harrison,Pass (Live),Raphael Dias Belloli,Pass (Live)
+174,261,85,Raphael Dias Belloli,Leeds United,Saved off Target,18,Left Foot,,Patrick Bamford,Pass (Live),Pablo Hernández,Pass (Live)
+175,261,86,Patrick Bamford,Leeds United,Saved,9,Head,,Jamie Shackleton,Pass (Live),Pablo Hernández,Pass (Live)
+176,261,90,Ollie Watkins,Aston Villa,Off Target,12,Right Foot,,Ross Barkley,Pass (Live),John McGinn,Pass (Live)
+177,261,94,John McGinn,Aston Villa,Off Target,27,Left Foot,,Ross Barkley,Pass (Live),Douglas Luiz,Pass (Dead)
+178,261,95,Jack Harrison,Leeds United,Off Target,20,Left Foot,,Pablo Hernández,Pass (Live),Mateusz Klich,Pass (Live)
+179,262,2,Patrick Bamford,Leeds United,Saved,6,Head,,Jack Harrison,Pass (Live),Hélder Costa,Pass (Live)
+180,262,3,Harvey Barnes,Leicester City,Goal,10,Right Foot,,Jamie Vardy,Pass (Live),Jamie Vardy,Dribble
+181,262,11,Harvey Barnes,Leicester City,Saved,18,Right Foot,,Jamie Vardy,Pass (Live),Marc Albrighton,Pass (Live)
+182,262,13,Patrick Bamford,Leeds United,Off Target,11,Right Foot,Half volley,Hélder Costa,Pass (Live),,
+183,262,21,Jamie Vardy,Leicester City,Saved,8,Head,Diving header,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)
+184,262,21,Youri Tielemans,Leicester City,Goal,6,Left Foot,,Jamie Vardy,Shot,,
+185,262,37,Luke Thomas,Leicester City,Saved,18,Right Foot,,Luke Thomas,Tackle,,
+186,262,38,Patrick Bamford,Leeds United,Saved,8,Right Foot,,Luke Ayling,Pass (Live),Mateusz Klich,Pass (Live)
+187,262,42,Jamie Vardy,Leicester City,Blocked,21,Right Foot,,,,,
+188,262,47,Patrick Bamford,Leeds United,Blocked,7,Head,,Mateusz Klich,Pass (Dead),Hélder Costa,Fouled
+189,262,48,Stuart Dallas,Leeds United,Goal,37,Right Foot,,Jack Harrison,Pass (Live),Mateusz Klich,Pass (Dead)
+190,262,55,Pablo Hernández,Leeds United,Woodwork,21,Right Foot,,Pablo Hernández,Dribble,,
+191,262,61,Mateusz Klich,Leeds United,Saved,32,Right Foot,,Jack Harrison,Pass (Live),Hélder Costa,Pass (Live)
+192,262,69,Harvey Barnes,Leicester City,Saved,19,Right Foot,,James Maddison,Pass (Live),,
+193,262,76,Jamie Vardy,Leicester City,Goal,6,Right Foot,Open goal,Cengiz Ünder,Pass (Live),James Maddison,Pass (Live)
+194,262,80,Robin Koch,Leeds United,Saved,7,Head,,Jack Harrison,Pass (Dead),,
+195,262,82,Ezgjan Alioski,Leeds United,Blocked,26,Left Foot,,,,,
+196,262,83,Jamie Vardy,Leicester City,Off Target,11,Right Foot,,Nampalys Mendy,Pass (Live),Youri Tielemans,Pass (Live)
+197,262,91,Youri Tielemans (pen),Leicester City,Goal,12,Right Foot,,James Maddison,Fouled,Marc Albrighton,Pass (Live)
+198,262,93,Tyler Roberts,Leeds United,Blocked,27,Right Foot,,Luke Ayling,Pass (Live),Robin Koch,Pass (Live)
+199,262,93,Jack Harrison,Leeds United,Blocked,14,Right Foot,Volley,Tyler Roberts,Shot,,
+200,263,2,Andros Townsend,Crystal Palace,Saved,27,Left Foot,,Wilfried Zaha,Pass (Live),Nathaniel Clyne,Pass (Dead)
+201,263,7,Patrick van Aanholt,Crystal Palace,Saved,18,Left Foot,,Eberechi Eze,Pass (Live),Patrick van Aanholt,Pass (Live)
+202,263,8,Liam Cooper,Leeds United,Off Target,7,Head,,Mateusz Klich,Pass (Dead),Stuart Dallas,Tackle
+203,263,12,Scott Dann,Crystal Palace,Goal,8,Head,,Eberechi Eze,Pass (Dead),,
+204,263,22,Eberechi Eze,Crystal Palace,Goal,23,Right Foot,Free kick,Eberechi Eze,Fouled,Patrick van Aanholt,Pass (Live)
+205,263,27,Patrick Bamford,Leeds United,Goal,12,Left Foot,Half volley,Mateusz Klich,Pass (Live),Luke Ayling,Pass (Live)
+206,263,31,Wilfried Zaha,Crystal Palace,Blocked,18,Right Foot,,Jordan Ayew,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+207,263,51,Pascal Struijk,Leeds United,Off Target,6,Head,,Jack Harrison,Pass (Dead),,
+208,263,52,Jordan Ayew,Crystal Palace,Blocked,17,Right Foot,,Wilfried Zaha,Pass (Live),Eberechi Eze,Pass (Live)
+209,263,52,Eberechi Eze,Crystal Palace,Off Target,26,Right Foot,,,,,
+210,263,55,Robin Koch,Leeds United,Blocked,14,Left Foot,Half volley,,,,
+211,263,65,Ezgjan Alioski,Leeds United,Saved,28,Left Foot,,Mateusz Klich,Pass (Live),Luke Ayling,Pass (Live)
+212,263,66,Jack Harrison,Leeds United,Saved,20,Left Foot,Half volley,Pascal Struijk,Pass (Live),Mateusz Klich,Pass (Live)
+213,263,67,Luke Ayling,Leeds United,Blocked,33,Right Foot,,Robin Koch,Pass (Live),,
+214,263,70,Jordan Ayew,Crystal Palace,Goal,12,Right Foot,,Wilfried Zaha,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+215,263,73,Patrick Bamford,Leeds United,Off Target,7,Head,,Mateusz Klich,Pass (Live),Jack Harrison,Pass (Live)
+216,263,82,Patrick van Aanholt,Crystal Palace,Saved,7,Right Foot,,Jeffrey Schlupp,Pass (Live),Jordan Ayew,Pass (Live)
+217,263,84,Raphael Dias Belloli,Leeds United,Off Target,30,Left Foot,Free kick,Mateusz Klich,Fouled,Raphael Dias Belloli,Pass (Live)
+218,263,88,Patrick van Aanholt,Crystal Palace,Off Target,12,Left Foot,Half volley,Christian Benteke,Pass (Live),James McCarthy,Pass (Live)
+219,264,6,Raphael Dias Belloli,Leeds United,Off Target,24,Left Foot,,Mateusz Klich,Pass (Live),Stuart Dallas,Pass (Live)
+220,264,10,Dani Ceballos,Arsenal,Off Target,24,Right Foot,,Dani Ceballos,Tackle,,
+221,264,12,Patrick Bamford,Leeds United,Saved,7,Right Foot,,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+222,264,17,Gabriel Dos Santos,Arsenal,Wayward,5,Head,,Nicolas Pépé,Pass (Dead),,
+223,264,19,Stuart Dallas,Leeds United,Blocked,25,Right Foot,Half volley,,,,
+224,264,19,Jack Harrison,Leeds United,Blocked,28,Right Foot,,Ezgjan Alioski,Pass (Live),Kalvin Phillips,Pass (Live)
+225,264,24,Dani Ceballos,Arsenal,Off Target,31,Right Foot,Free kick,Kieran Tierney,Fouled,Dani Ceballos,Pass (Live)
+226,264,24,Pierre-Emerick Aubameyang,Arsenal,Off Target,11,Right Foot,,Héctor Bellerín,Pass (Live),Joe Willock,Pass (Live)
+227,264,27,Raphael Dias Belloli,Leeds United,Off Target,25,Left Foot,,Ezgjan Alioski,Pass (Live),Raphael Dias Belloli,Pass (Live)
+228,264,31,Patrick Bamford,Leeds United,Saved,12,Left Foot,Volley,Mateusz Klich,Pass (Live),Luke Ayling,Pass (Live)
+229,264,31,Ezgjan Alioski,Leeds United,Off Target,21,Left Foot,Half volley,,,,
+230,264,34,Patrick Bamford,Leeds United,Blocked,13,Right Foot,Volley,Jack Harrison,Pass (Live),Jack Harrison,Fouled
+231,264,34,Stuart Dallas,Leeds United,Off Target,16,Right Foot,Half volley,Patrick Bamford,Shot,,
+232,264,38,Stuart Dallas,Leeds United,Blocked,22,Left Foot,,Mateusz Klich,Pass (Live),Jack Harrison,Pass (Live)
+233,264,38,Kalvin Phillips,Leeds United,Off Target,30,Right Foot,,,,,
+234,264,41,Mateusz Klich,Leeds United,Off Target,14,Left Foot,,Jack Harrison,Pass (Live),Ezgjan Alioski,Pass (Live)
+235,264,43,Luke Ayling,Leeds United,Off Target,17,Right Foot,Half volley,,,,
+236,264,44,Nicolas Pépé,Arsenal,Off Target,26,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Héctor Bellerín,Pass (Dead)
+237,264,60,Pierre-Emerick Aubameyang,Arsenal,Saved,11,Right Foot,Half volley,Bukayo Saka,Pass (Live),Kieran Tierney,Pass (Live)
+238,264,64,Stuart Dallas,Leeds United,Saved,20,Left Foot,,Raphael Dias Belloli,Pass (Live),Mateusz Klich,Pass (Live)
+239,264,64,Liam Cooper,Leeds United,Off Target,9,Head,,Kalvin Phillips,Pass (Dead),Stuart Dallas,Shot
+240,264,73,Raphael Dias Belloli,Leeds United,Blocked,16,Left Foot,,Rodrigo,Pass (Live),Jack Harrison,Pass (Live)
+241,264,73,Patrick Bamford,Leeds United,Off Target,5,Head,,Raphael Dias Belloli,Pass (Live),Stuart Dallas,Pass (Live)
+242,264,75,Granit Xhaka,Arsenal,Off Target,27,Left Foot,Free kick,Granit Xhaka,Fouled,Héctor Bellerín,Pass (Live)
+243,264,76,Rodrigo,Leeds United,Off Target,30,Left Foot,,Robin Koch,Pass (Live),Mateusz Klich,Pass (Live)
+244,264,79,Rodrigo,Leeds United,Woodwork,21,Left Foot,,Robin Koch,Pass (Live),Kalvin Phillips,Pass (Live)
+245,264,82,Pierre-Emerick Aubameyang,Arsenal,Blocked,16,Right Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Dribble
+246,264,83,Ian Carlo Poveda,Leeds United,Saved,16,Left Foot,,Robin Koch,Pass (Live),Rodrigo,Tackle
+247,264,84,Bukayo Saka,Arsenal,Saved,15,Left Foot,,Héctor Bellerín,Pass (Live),,
+248,264,87,Patrick Bamford,Leeds United,Woodwork,8,Head,,Ian Carlo Poveda,Pass (Live),Mateusz Klich,Pass (Live)
+249,264,90,Robin Koch,Leeds United,Blocked,10,Head,,Mateusz Klich,Pass (Dead),,
+250,264,91,Mateusz Klich,Leeds United,Off Target,14,Left Foot,Half volley,,,,
+251,264,95,Rodrigo,Leeds United,Wayward,11,Head,,Stuart Dallas,Pass (Live),Ian Carlo Poveda,Pass (Live)
+252,264,95,Raphael Dias Belloli,Leeds United,Woodwork,9,Left Foot,,Rodrigo,Shot,,
+253,265,1,Raphael Dias Belloli,Leeds United,Wayward,19,Left Foot,,Patrick Bamford,Pass (Live),Mateusz Klich,Pass (Live)
+254,265,7,Abdoulaye Doucouré,Everton,Saved,9,Left Foot,,Tom Davies,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+255,265,8,Patrick Bamford,Leeds United,Blocked,17,Left Foot,,Jack Harrison,Pass (Live),Mateusz Klich,Pass (Live)
+256,265,8,James Rodríguez,Everton,Blocked,30,Left Foot,,Richarlison,Pass (Live),James Rodríguez,Pass (Live)
+257,265,10,Jack Harrison,Leeds United,Off Target,11,Left Foot,,Raphael Dias Belloli,Pass (Live),Mateusz Klich,Pass (Live)
+258,265,13,Richarlison,Everton,Saved,15,Right Foot,,Allan,Pass (Live),Allan,Dribble
+259,265,13,Mateusz Klich,Leeds United,Blocked,24,Right Foot,,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+260,265,14,Kalvin Phillips,Leeds United,Saved,29,Right Foot,Deflected,Stuart Dallas,Pass (Live),Raphael Dias Belloli,Pass (Live)
+261,265,21,Mateusz Klich,Leeds United,Wayward,14,Right Foot,,,,,
+262,265,21,Patrick Bamford,Leeds United,Saved,9,Left Foot,,Mateusz Klich,Shot,,
+263,265,26,Michael Keane,Everton,Off Target,10,Head,,James Rodríguez,Pass (Live),Alex Iwobi,Pass (Live)
+264,265,28,Raphael Dias Belloli,Leeds United,Saved,9,Head,,Luke Ayling,Pass (Live),,
+265,265,29,Jack Harrison,Leeds United,Blocked,11,Left Foot,,Luke Ayling,Pass (Live),,
+266,265,39,Mason Holgate,Everton,Saved,9,Right Foot,Volley,James Rodríguez,Pass (Live),Alex Iwobi,Pass (Live)
+267,265,42,Richarlison,Everton,Saved,25,Right Foot,,Dominic Calvert-Lewin,Pass (Live),Tom Davies,Pass (Live)
+268,265,43,Richarlison,Everton,Blocked,6,Head,,James Rodríguez,Pass (Dead),Richarlison,Shot
+269,265,44,Richarlison,Everton,Saved,13,Left Foot,,Allan,Pass (Live),Allan,Dribble
+270,265,45,Jack Harrison,Leeds United,Woodwork,5,Head,,Stuart Dallas,Pass (Live),Kalvin Phillips,Pass (Live)
+271,265,45,Patrick Bamford,Leeds United,Off Target,11,Right Foot,Half volley,Jack Harrison,Shot,,
+272,265,47,Luke Ayling,Leeds United,Blocked,29,Right Foot,,Kalvin Phillips,Pass (Live),Mateusz Klich,Pass (Live)
+273,265,47,Mateusz Klich,Leeds United,Off Target,19,Right Foot,,Luke Ayling,Shot,,
+274,265,47,Dominic Calvert-Lewin,Everton,Saved,14,Right Foot,,James Rodríguez,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+275,265,48,Patrick Bamford,Leeds United,Blocked,10,Left Foot,,Ezgjan Alioski,Pass (Live),,
+276,265,48,Dominic Calvert-Lewin,Everton,Off Target,14,Left Foot,,Richarlison,Pass (Live),Alex Iwobi,Pass (Live)
+277,265,49,Mateusz Klich,Leeds United,Off Target,17,Right Foot,,Luke Ayling,Pass (Live),Jack Harrison,Pass (Live)
+278,265,51,Patrick Bamford,Leeds United,Off Target,18,Left Foot,Volley,Mateusz Klich,Pass (Live),,
+279,265,52,James Rodríguez,Everton,Saved,27,Left Foot,Lob,James Rodríguez,Interception,,
+280,265,55,Richarlison,Everton,Saved,19,Right Foot,,James Rodríguez,Pass (Live),Tom Davies,Pass (Live)
+281,265,59,Jack Harrison,Leeds United,Saved,24,Left Foot,,Patrick Bamford,Pass (Live),Mateusz Klich,Pass (Live)
+282,265,60,Allan,Everton,Blocked,17,Right Foot,,Allan,Dribble,Alex Iwobi,Pass (Live)
+283,265,61,Dominic Calvert-Lewin,Everton,Off Target,4,Head,,James Rodríguez,Pass (Dead),Allan,Shot
+284,265,64,Kalvin Phillips,Leeds United,Blocked,17,Left Foot,,,,,
+285,265,64,Raphael Dias Belloli,Leeds United,Off Target,15,Left Foot,,Kalvin Phillips,Shot,,
+286,265,69,James Rodríguez,Everton,Saved,23,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+287,265,75,Allan,Everton,Off Target,23,Right Foot,,,,,
+288,265,76,Richarlison,Everton,Off Target,15,Left Foot,Half volley,James Rodríguez,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+289,265,79,Raphael Dias Belloli,Leeds United,Goal,28,Left Foot,,Jack Harrison,Pass (Live),Mateusz Klich,Pass (Live)
+290,265,89,Patrick Bamford,Leeds United,Blocked,28,Left Foot,,Stuart Dallas,Pass (Live),Patrick Bamford,Pass (Live)
+291,265,93,Hélder Costa,Leeds United,Saved,4,Left Foot,,Ian Carlo Poveda,Pass (Live),Ian Carlo Poveda,Dribble
+292,266,1,Hakim Ziyech,Chelsea,Saved,11,Left Foot,Half volley,Thiago Silva,Pass (Live),Kai Havertz,Pass (Live)
+293,266,2,Olivier Giroud,Chelsea,Off Target,6,Head,,Mason Mount,Pass (Dead),Hakim Ziyech,Shot
+294,266,4,Patrick Bamford,Leeds United,Goal,17,Left Foot,,Patrick Bamford,Dribble,Kalvin Phillips,Pass (Live)
+295,266,7,Timo Werner,Chelsea,Blocked,25,Right Foot,,Olivier Giroud,Pass (Live),Timo Werner,Pass (Live)
+296,266,9,Olivier Giroud,Chelsea,Wayward,8,Head,,Mason Mount,Pass (Dead),Timo Werner,Shot
+297,266,9,Timo Werner,Chelsea,Saved to Post,2,Right Foot,Open goal Half volley,Olivier Giroud,Shot,,
+298,266,13,Jack Harrison,Leeds United,Blocked,9,Left Foot,Half volley,Raphael Dias Belloli,Pass (Live),Stuart Dallas,Pass (Live)
+299,266,15,Patrick Bamford,Leeds United,Off Target,9,Left Foot,,Mateusz Klich,Pass (Live),Jack Harrison,Pass (Live)
+300,266,22,Olivier Giroud,Chelsea,Off Target,19,Left Foot,,Olivier Giroud,Interception,,
+301,266,23,Stuart Dallas,Leeds United,Blocked,27,Right Foot,,Mateusz Klich,Pass (Live),Mateusz Klich,Dribble
+302,266,26,Patrick Bamford,Leeds United,Saved,20,Left Foot,,Raphael Dias Belloli,Pass (Live),Raphael Dias Belloli,Dribble
+303,266,27,Olivier Giroud,Chelsea,Goal,7,Left Foot,Volley,Reece James,Pass (Live),Hakim Ziyech,Pass (Live)
+304,266,42,Ben Chilwell,Chelsea,Saved,10,Head,,Mason Mount,Pass (Dead),Christian Pulisic,Pass (Live)
+305,266,48,Olivier Giroud,Chelsea,Off Target,9,Right Foot,Back heel,Reece James,Pass (Live),Timo Werner,Pass (Live)
+306,266,51,Christian Pulisic,Chelsea,Blocked,17,Right Foot,,Ben Chilwell,Pass (Live),Christian Pulisic,Pass (Live)
+307,266,54,Kai Havertz,Chelsea,Off Target,4,Head,,Reece James,Pass (Dead),Ben Chilwell,Fouled
+308,266,57,Raphael Dias Belloli,Leeds United,Blocked,16,Left Foot,Volley,Mateusz Klich,Pass (Dead),,
+309,266,57,Raphael Dias Belloli,Leeds United,Off Target,12,Left Foot,Half volley,Raphael Dias Belloli,Shot,,
+310,266,60,Timo Werner,Chelsea,Saved,13,Right Foot,Deflected,Olivier Giroud,Pass (Live),N'Golo Kanté,Pass (Live)
+311,266,60,Timo Werner,Chelsea,Saved,6,Right Foot,,Timo Werner,Shot,,
+312,266,60,Mason Mount,Chelsea,Blocked,4,Right Foot,,Timo Werner,Shot,,
+313,266,61,Kurt Zouma,Chelsea,Goal,7,Head,,Mason Mount,Pass (Dead),Mason Mount,Shot
+314,266,66,Christian Pulisic,Chelsea,Blocked,21,Right Foot,,Christian Pulisic,Dribble,Kai Havertz,Pass (Live)
+315,266,68,Olivier Giroud,Chelsea,Off Target,5,Right Foot,,,,,
+316,266,70,Rodrigo,Leeds United,Wayward,9,Head,,Mateusz Klich,Pass (Dead),,
+317,266,71,Mason Mount,Chelsea,Saved,33,Right Foot,,Mateo Kovačić,Pass (Live),Mason Mount,Pass (Live)
+318,266,76,Timo Werner,Chelsea,Saved,7,Right Foot,,Mason Mount,Pass (Live),Mason Mount,Tackle
+319,266,77,Olivier Giroud,Chelsea,Off Target,7,Head,,Mason Mount,Pass (Dead),Timo Werner,Shot
+320,266,78,Ian Carlo Poveda,Leeds United,Saved,21,Left Foot,,Ian Carlo Poveda,Dribble,Luke Ayling,Pass (Live)
+321,266,81,Reece James,Chelsea,Off Target,8,Head,,Mason Mount,Pass (Dead),,
+322,266,84,Christian Pulisic,Chelsea,Blocked,18,Right Foot,,Timo Werner,Pass (Live),Mateo Kovačić,Pass (Live)
+323,266,87,Tammy Abraham,Chelsea,Off Target,18,Right Foot,,Timo Werner,Pass (Live),,
+324,266,93,Christian Pulisic,Chelsea,Goal,7,Left Foot,,Timo Werner,Pass (Live),Mateo Kovačić,Pass (Live)

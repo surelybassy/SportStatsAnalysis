@@ -1,0 +1,93 @@
+TeamID,TeamName,Location,Stadium,Capacity,Manager,League,Captain
+1,Arsenal,London (Holloway),Emirates Stadium,60704,Spain Mikel Arteta,PremierLeague,Gabon Pierre-Emerick Aubameyang
+2,Aston Villa,Birmingham,Villa Park,42785,England Dean Smith,PremierLeague,England Jack Grealish
+3,Brighton & Hove Albion,Brighton,Falmer Stadium,30750,England Graham Potter,PremierLeague,England Lewis Dunk
+4,Burnley,Burnley,Turf Moor,21944,England Sean Dyche,PremierLeague,England Ben Mee
+5,Chelsea,London (Fulham),Stamford Bridge,40834,England Frank Lampard,PremierLeague,Spain César Azpilicueta
+6,Crystal Palace,London (Selhurst),Selhurst Park,25486,England Roy Hodgson,PremierLeague,Serbia Luka Milivojević
+7,Everton,Liverpool (Walton),Goodison Park,39414,Italy Carlo Ancelotti,PremierLeague,Republic of Ireland Séamus Coleman
+8,Fulham,London (Fulham),Craven Cottage,19000,England Scott Parker,PremierLeague,Scotland Tom Cairney
+9,Leeds United,Leeds,Elland Road,37890,Argentina Marcelo Bielsa,PremierLeague,Scotland Liam Cooper
+10,Leicester City,Leicester,King Power Stadium,32312,Northern Ireland Brendan Rodgers,PremierLeague,Jamaica Wes Morgan
+11,Liverpool,Liverpool (Anfield),Anfield,53394,Germany Jürgen Klopp,PremierLeague,England Jordan Henderson
+12,Manchester City,Manchester (Clayton),City of Manchester Stadium,55097,Spain Pep Guardiola,PremierLeague,Brazil Fernandinho[37]
+13,Manchester United,Manchester (Old Trafford),Old Trafford,74879,Norway Ole Gunnar Solskjær,PremierLeague,England Harry Maguire
+14,Newcastle United,Newcastle upon Tyne,St James' Park,52388,England Steve Bruce,PremierLeague,England Jamaal Lascelles
+15,Sheffield United,Sheffield,Bramall Lane,32125,England Chris Wilder,PremierLeague,England Billy Sharp
+16,Southampton,Southampton,St Mary's Stadium,32505,Austria Ralph Hasenhüttl,PremierLeague,England James Ward-Prowse
+17,Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62303,Portugal José Mourinho,PremierLeague,France Hugo Lloris
+18,West Bromwich Albion,West Bromwich,The Hawthorns,26850,Croatia Slaven Bilić,PremierLeague,England Jake Livermore
+19,West Ham United,London (Stratford),London Stadium,60000,Scotland David Moyes,PremierLeague,England Mark Noble
+20,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,Portugal Nuno Espírito Santo,PremierLeague,England Conor Coady
+21,Bournemouth,Bournemouth,Dean Court,11364,England Jason Tindall,Championship,England Steve Cook
+22,Barnsley,Barnsley,Oakwell,23287,France Valérien Ismaël,Championship,England Alex Mowatt [12]
+23,Birmingham City,Birmingham,St Andrew's,29409,Spain Aitor Karanka,Championship,England Harlee Dean[14]
+24,Blackburn Rovers,Blackburn,Ewood Park,31367,England Tony Mowbray,Championship,England Elliott Bennett
+25,Brentford,London (Brentford),Brentford Community Stadium,17250,Denmark Thomas Frank,Championship,Sweden Pontus Jansson
+26,Bristol City,Bristol,Ashton Gate,27000,England Dean Holden,Championship,Czech Republic Tomas Kalas[17]
+27,Cardiff City,Cardiff,Cardiff City Stadium,33316,England Neil Harris,Championship,England Sean Morrison
+28,Coventry City,Birmingham,St Andrew's,29409,England Mark Robins,Championship,Scotland Liam Kelly
+29,Derby County,Derby,Pride Park Stadium,33600,England Wayne Rooney (interim),Championship,England Wayne Rooney
+30,Huddersfield Town,Huddersfield,Kirklees Stadium,24121,Spain Carlos Corberán,Championship,Germany Christopher Schindler
+31,Luton Town,Luton,Kenilworth Road,10356,Wales Nathan Jones,Championship,England Sonny Bradley
+32,Middlesbrough,Middlesbrough,Riverside Stadium,34742,England Neil Warnock,Championship,Democratic Republic of the Congo Britt Assombalonga
+33,Millwall,London (South Bermondsey),The Den,20146,England Gary Rowett,Championship,Republic of Ireland Alex Pearce
+34,Norwich City,Norwich,Carrow Road,27244,Germany Daniel Farke,Championship,Scotland Grant Hanley
+35,Nottingham Forest,Nottingham,City Ground,30445,Republic of Ireland Chris Hughton,Championship,England Michael Dawson
+36,Preston North End,Preston,Deepdale,23408,Scotland Alex Neil,Championship,Republic of Ireland Alan Browne
+37,Queens Park Rangers,London (White City),Kiyan Prince Foundation Stadium,18439,England Mark Warburton,Championship,United States Geoff Cameron
+38,Reading,Reading,Madejski Stadium,24161,Serbia Veljko Paunović,Championship,England Liam Moore
+39,Rotherham United,Rotherham,New York Stadium,12021,England Paul Warne,Championship,England Richard Wood
+40,Sheffield Wednesday,Sheffield (Owlerton),Hillsborough Stadium,34854,Wales Tony Pulis,Championship,Scotland Barry Bannan
+41,Stoke City,Stoke-On-Trent,bet365 Stadium,30089,Northern Ireland Michael O'Neill,Championship,England Ryan Shawcross
+42,Swansea City,Swansea,Liberty Stadium,21088,Wales Steve Cooper,Championship,England Matt Grimes[25]
+43,Watford,Watford,Vicarage Road,21577,Serbia Vladimir Ivić,Championship,England Troy Deeney
+44,Wycombe Wanderers,High Wycombe,Adams Park,9448,England Gareth Ainsworth,Championship,England Matt Bloomfield
+45,Accrington Stanley,Accrington,Crown Ground,5057,England John Coleman,League1,Republic of Ireland Séamus Conneely
+46,AFC Wimbledon,London,Plough Lane,9300,Wales Glyn Hodges,League1,England Will Nightingale
+47,Blackpool,Blackpool,Bloomfield Road,17338,England Neil Critchley,League1,Wales Chris Maxwell
+48,Bristol Rovers,Bristol,Memorial Stadium,12300,England Paul Tisdale,League1,Germany Max Ehmer[5]
+49,Burton Albion,Burton upon Trent,Pirelli Stadium,6912,England Jake Buxton,League1,England John Brayford
+50,Charlton Athletic,London (Charlton),The Valley,27111,England Lee Bowyer,League1,England Jason Pearce
+51,Crewe Alexandra,Crewe,Gresty Road,10180,Gibraltar David Artell,League1,England Perry Ng
+52,Doncaster Rovers,Doncaster,Keepmoat Stadium,15231,Jamaica Darren Moore,League1,England Ben Whiteman
+53,Fleetwood Town,Fleetwood,Highbury Stadium,5327,England Joey Barton,League1,Scotland Paul Coutts
+54,Gillingham,Gillingham,Priestfield Stadium,11582,Scotland Steve Evans,League1,England Kyle Dempsey
+55,Hull City,Kingston upon Hull,KCOM Stadium,25586,Northern Ireland Grant McCann,League1,England Richie Smallwood[8]
+56,Ipswich Town,Ipswich,Portman Road,30311,Scotland Paul Lambert,League1,England Luke Chambers
+57,Lincoln City,Lincoln,LNER Stadium,10120,England Michael Appleton,League1,Scotland Liam Bridcutt
+58,Milton Keynes Dons,Milton Keynes,Stadium MK,30500,Scotland Russell Martin,League1,England Dean Lewington
+59,Northampton Town,Northampton,PTS Academy Stadium,7798,England Keith Curle,League1,Republic of Ireland Cian Bolger
+60,Oxford United,Oxford,Kassam Stadium,12500,England Karl Robinson,League1,England John Mousinho
+61,Peterborough United,Peterborough,Weston Homes Stadium,15314,Scotland Darren Ferguson,League1,England Mark Beevers
+62,Plymouth Argyle,Plymouth,Home Park,18600,England Ryan Lowe,League1,England Gary Sawyer
+63,Portsmouth,Portsmouth,Fratton Park,19669,Wales Kenny Jackett,League1,England Tom Naylor
+64,Rochdale,Rochdale,Crown Oil Arena,10500,Republic of Ireland Brian Barry-Murphy,League1,Republic of Ireland Eoghan O'Connell
+65,Shrewsbury Town,Shrewsbury,Montgomery Waters Meadow,9875,England Steve Cotterill,League1,Wales David Edwards
+66,Sunderland,Sunderland,Stadium of Light,48707,England Lee Johnson,League1,England Max Power
+67,Swindon Town,Swindon,County Ground,15728,Republic of Ireland John Sheridan,League1,England Dion Conroy
+68,Wigan Athletic,Wigan,DW Stadium,25133,Vacant,League1,England Joe Garner
+69,Barrow,Barrow-in-Furness,Holker Street,5045,England David Dunn,League2,England Lewis Hardcastle
+70,Bolton Wanderers,Bolton,University of Bolton Stadium,28723,England Ian Evatt,League2,England Antoni Sarcevic
+71,Bradford City,Bradford,Valley Parade,25136,Scotland Stuart McCall,League2,England Richard O'Donnell
+72,Cambridge United,Cambridge,Abbey Stadium,8127,England Mark Bonner,League2,England Greg Taylor
+73,Carlisle United,Carlisle,Brunton Park,18202,England Chris Beech,League2,England Nick Anderton
+74,Cheltenham Town,Cheltenham,Whaddon Road,7066,Northern Ireland Michael Duff,League2,England Ben Tozer
+75,Colchester United,Colchester,Colchester Community Stadium,10105,England Steve Ball,League2,England Harry Pell
+76,Crawley Town,Crawley,Broadfield Stadium,5996,England John Yems,League2,England George Francomb[6]
+77,Exeter City,Exeter,St. James Park,8696,England Matt Taylor,League2,Wales Jake Taylor
+78,Forest Green Rovers,Nailsworth,The New Lawn,5147,England Mark Cooper,League2,England Chris Stokes
+79,Grimsby Town,Cleethorpes,Blundell Park,9052,England Ian Holloway,League2,Republic of Ireland James McKeown
+80,Harrogate Town,Harrogate,Wetherby Road[a],5000,England Simon Weaver,League2,England Josh Falkingham
+81,Leyton Orient,London (Leyton),Brisbane Road,9271,England Ross Embleton,League2,Jamaica Jobi McAnuff
+82,Mansfield Town,Mansfield,Field Mill,10000,England Nigel Clough,League2,England Ollie Clarke
+83,Morecambe,Morecambe,Globe Arena,6476,Scotland Derek Adams,League2,Scotland Sam Lavelle
+84,Newport County,Newport,Rodney Parade,7850,Wales Michael Flynn,League2,England Joss Labadie
+85,Oldham Athletic,Oldham,Boundary Park,13512,Australia Harry Kewell,League2,England David Wheater
+86,Port Vale,Stoke-On-Trent,Vale Park,19052,England John Askey,League2,England Leon Legge
+87,Salford City,Salford,Moor Lane,5108,England Richie Wellens,League2,England Ashley Eastham
+88,Scunthorpe United,Scunthorpe,Glanford Park,9088,England Neil Cox,League2,England Jordan Clarke
+89,Southend United,Southend-on-Sea,Roots Hall,12392,England Mark Molesley,League2,England Nathan Ralph
+90,Stevenage,Stevenage,Broadhall Way,7800,England Alex Revell,League2,Scotland Scott Cuthbert
+91,Tranmere Rovers,Birkenhead,Prenton Park,16789,England Keith Hill,League2,England Scott Davies
+92,Walsall,Walsall,Bescot Stadium,11300,England Darrell Clarke,League2,England James Clarke
