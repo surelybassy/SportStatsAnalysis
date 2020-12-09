@@ -1,6 +1,6 @@
 # SportStatsAnalysis
-### Andrew Ashdown
-### December 2020
+## Andrew Ashdown
+### *December 2020*
 
 Project exploring Data Collection, Visualisation and Analysis of Sports Statistics.
 
@@ -20,13 +20,14 @@ Using Python I was able to automate the process of collecting and combining data
 
 ## The Database
 
+Reviewing the feautres in the data collected and thinking about how to link it together, I designed an ERD for how I wanted my database to look and act. Using MySQL, I created a new schema, and imported the six CSV files created in Python and continues further investigation and analysis.
 
 ![Alt text](Images/LeedsUnitedDatabase.png?raw=true "Project Outline")
 
 ## Visualisation
 
 
-## Statistical Insight
+## Statistical Analysis
 
 
 ## Review
