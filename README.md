@@ -20,12 +20,15 @@ Using Python I was able to automate the process of collecting and combining data
 
 ## The Database
 
-Reviewing the feautres in the data collected and thinking about how to link it together, I designed an ERD for how I wanted my database to look and act. Using MySQL, I created a new schema, and imported the six CSV files created in Python and continues further investigation and analysis.
+Reviewing the feautres in the data collected and thinking about how to link it together, I designed an ERD for how I wanted my database to look and act. Using MySQL, I created a new schema, and imported the six CSV files created in Python and continued further investigation and analysis.
 
 ![Alt text](Images/LeedsUnitedDatabase.png?raw=true "Project Outline")
 
 ## Visualisation
 
+Using Tableau I was able to easily visualise different aspects of the team's performance and focus on how individual players were performing in different areas. I spent lots of time experimenting with different and creative ways to display the numerous features in the data and created several dashboards. 
+
+[The final Tableau story can be found here.](https://public.tableau.com/profile/andrew.ashdown#!/vizhome/SportStatisticsAnalysis/LeedsStatsStory)
 
 ## Statistical Analysis
 
