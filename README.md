@@ -39,11 +39,21 @@ Using Tableau I was able to easily visualise different aspects of the team's per
 
 With lots of data collected and stored, I attempted to answer a number of statistical question.
 
-***Can you predict the total amount of goals a team will score in a season based on statistics from the game?***
+***1. Can you predict the total amount of goals a team will score in a season based on statistics from the game?***
 
-Using data from past Premier League seasons, I used a number of different regression models to try to predict the total amount of goals scored by a team. I found that I acheived the best accuracy using the Scikit-Learn Linear Regressor, giving a score of 88%. 
-[Jupyter Notebook can be found here.](https://github.com/surelybassy/SportStatsAnalysis/blob/master/JupyterNotebooks/TotalGoalsPrediction.ipynb)
+Using data from past Premier League seasons, I used a number of different regression models to try to predict the total amount of goals scored by a team. I found that I acheived the best accuracy using the Scikit-Learn Linear Regressor, giving a score of 88%.
+
+[The Jupyter Notebook can be found here.](https://github.com/surelybassy/SportStatsAnalysis/blob/master/JupyterNotebooks/TotalGoalsPrediction.ipynb)
 
 ![Python Data Analysis](Images/PythonAnalysis.png?raw=true "Python Data Analysis")
+
+
+***2. With the introduction of VAR, will we see an increase in the amount of penalties awarded?***
+
+Maybe so, maybe no!
+
+## Delivering Insight
+
+With a large amount of data collected, I wanted to create a tool used to deliver it to the public. Building an API server in Python, using the Flask library, I was able to create a number of routes that ran different queries on my database and rendered the results back to the user on a HTML page.
 
 ## Review
