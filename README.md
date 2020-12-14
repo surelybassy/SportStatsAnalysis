@@ -33,6 +33,8 @@ Using Tableau I was able to easily visualise different aspects of the team's per
 
 [The final Tableau story can be found here.](https://public.tableau.com/profile/andrew.ashdown#!/vizhome/SportStatisticsAnalysis/LeedsStatsStory)
 
+![Dashboards](Images/Dashboards.png?raw=true "Tableau Dashboards")
+
 ## Statistical Analysis
 
 With lots of data collected and stored, I attempted to answer a number of statistical question.
