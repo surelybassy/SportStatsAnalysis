@@ -39,7 +39,7 @@ Using Tableau I was able to easily visualise different aspects of the team's per
 
 With lots of data collected and stored, I attempted to answer a number of statistical question.
 
-***1. Can you predict the total amount of goals a team will score in a season based on statistics from the game?***
+***1. Can you predict the total amount of goals a team will score in a season based on statistics from the games played?***
 
 Using data from past Premier League seasons, I used a number of different regression models to try to predict the total amount of goals scored by a team. I found that I acheived the best accuracy using the Scikit-Learn Linear Regressor, giving a score of 88%.
 
@@ -49,6 +49,10 @@ Using data from past Premier League seasons, I used a number of different regres
 
 
 ***2. With the introduction of VAR, will we see an increase in the amount of penalties awarded?***
+
+Maybe so, maybe no!
+
+***3. With Corona regulations barring fans from entering stadium, will we still see a home ground advantage?***
 
 Maybe so, maybe no!
 
