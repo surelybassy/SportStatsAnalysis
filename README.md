@@ -41,7 +41,8 @@ With lots of data collected and stored, I attempted to answer a number of statis
 
 ***Can you predict the total amount of goals a team will score in a season based on statistics from the game?***
 
-Using data from past Premier League seasons, I used a number of different regression models to try to predict the total amount of goals scored by a team. I found that I acheived the best accuracy using the Scikit-Learn Linear Regressor, giving a score of 88%.
+Using data from past Premier League seasons, I used a number of different regression models to try to predict the total amount of goals scored by a team. I found that I acheived the best accuracy using the Scikit-Learn Linear Regressor, giving a score of 88%. 
+[Jupyter Notebook can be found here.](https://github.com/surelybassy/SportStatsAnalysis/blob/master/JupyterNotebooks/TotalGoalsPrediction.ipynb)
 
 ![Python Data Analysis](Images/PythonAnalysis.png?raw=true "Python Data Analysis")
 
