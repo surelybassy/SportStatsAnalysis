@@ -50,7 +50,17 @@ Using data from past Premier League seasons, I used a number of different regres
 
 ***2. With the introduction of VAR, will we see an increase in the amount of penalties awarded?***
 
-Maybe so, maybe no!
+$t = \frac{(\bar{X}-\mu_{0})}{\hat{\sigma}/\sqrt{n}}$
+
+where:
+
+$\bar{X}$ is the sample mean
+
+$\mu_{0}$ is the population mean
+
+$\hat{\sigma}$ is the sample standard deviation
+
+$n$ is the number of measures in our sample
 
 ***3. With Corona regulations barring fans from entering stadium, will we still see a home ground advantage?***
 
