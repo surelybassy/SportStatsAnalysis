@@ -64,7 +64,8 @@ Looking at the statistics for games played before the 2020 season, **46%** of th
 
 With a large amount of data collected, I wanted to create a tool used to deliver it to the public. Building an API server in Python, using the Flask library, I was able to create a number of routes that ran different queries on my database and returns the results back to the user as either a JSON file or rendered HTML page.
 
-![Flask API](Images/API Diagram.png?raw=true "API Diagram")
+![API Diagram](Images/API Diagram.png?raw=true, "API Diagram")
+
 
 ## Review
 
