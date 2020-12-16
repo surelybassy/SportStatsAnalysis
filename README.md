@@ -14,7 +14,7 @@ I wanted to explore the world of Sport Statistics and specifically focus on my f
 
 ## The Data
 
-With a large amount of data available, I explored a number of different sources that I could use to collect it. There are a number of sports statistics APIs, but many of the better ones require a paid licence key. I found the best sources for data were smaller, independent websites, where data scraping was trouble free and some even offer CSV files for direct download. Kaggle also had several large datasets with historical statistics from football matches around the world. User Zaeemnalla had a dataset containing  match records and statistics from past Premier League season.
+With a large amount of data available, I explored a number of different sources that I could use to collect it. There are a number of sports statistics APIs, but many of the better ones require a paid licence key. I found the best sources for data were smaller, independent websites, where data scraping was trouble free and some even offer CSV files for direct download. Kaggle also had several large datasets with historical statistics from football matches around the world. User Zaeemnalla had a dataset containing  match records and statistics from past Premier League seasons.
 
 Using Python I was able to automate the process of collecting and combining data from numerous pages. I scraped a number of different tables into Pandas Dataframes and began to explore and clean the data. After gathering information that I thought was the most useful and relevant, I exported the clean dataframes to CSV files to be used for further analysis in SQL and Tableau.
 
@@ -62,10 +62,16 @@ Looking at the statistics for games played before the 2020 season, **46%** of th
 
 ## Delivering Insight
 
-With a large amount of data collected, I wanted to create a tool used to deliver it to the public. Building an API server in Python, using the Flask library, I was able to create a number of routes that ran different queries on my database and returns the results back to the user as either a JSON file or rendered HTML page.
+Using the data collected, I wanted to create a tool used to deliver it to the public. Building an API server in Python, using the Flask library, I was able to create a number of routes that ran different queries on my database and returns the results back to the user as either a JSON file or rendered HTML page.
 
 ![API Diagram](Images/APIDiagram.png?raw=true, "API Diagram")
 
-
 ## Review
 
+At the start of the project I was keen to demonstrate a number of different analytic and data science techniques, setting a number of goals I wanted to achieve, but leaving space to explore other areas along the way. 
+
+- Using Python I collected, cleaned and exported several datasets, and created code that I can reuse to update them after every new game. Using the data I then built a machine learning model to predict how many goals a team will score in a season.
+
+- As the data collection was relatively straight forward, I had lots of time to experiment with the visualisations in Tableau, creating a collection of visually appealing dashboards that offer interesting insight into the team's performance.
+
+- Using the MySQL database and Flask libraries in Python, I created a simple API with a number of different routes, delivering either JSON or HTML to a user. 
