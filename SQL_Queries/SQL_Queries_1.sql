@@ -95,3 +95,15 @@ GROUP BY AssistPlayer1
 ORDER BY Count(AssistPlayer1) DESC;
 
 SELECT * FROM assists;
+
+# Fun Stuff
+SELECT BodyPart, COUNT(BodyPart) as Count FROM GameShots
+GROUP BY BodyPart;
+
+SELECT BodyPart, COUNT(BodyPart) as Count FROM GameShots
+WHERE Outcome = "Goal" AND Squad = "Leeds United"
+GROUP BY BodyPart;
+
+SELECT BodyPart, COUNT(BodyPart) as Count FROM GameShots
+WHERE Outcome = "Goal" AND Squad <> "Leeds United"
+GROUP BY BodyPart;
