@@ -1,4 +1,4 @@
-# Sport Statistics Analysis
+# Sports Statistics Analysis
 ## Andrew Ashdown
 ### *December 2020*
 
