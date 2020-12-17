@@ -7,14 +7,14 @@ Project exploring Data Collection, Visualisation and Analysis of Sports Statisti
 
 ## Project Outline
 
-I wanted to explore the world of Sport Statistics and specifically focus on my favourite club, the mighty Leeds United. There is a huge amount of data recorded on all aspects of the sport, from overall match statistics down to the specific body part used to score goals. My initial plan was to collect a large amount of data on the club and sport as a whole, clean it and use it to build a database in MySQL. With the database built, I would write a number of queries to deliver specific and useful insight into how the team is performing and use Tableau to create a dashboard to visualise the data. With a large amount of data recorded and processed, I would attempt to answer a number of statistical questions related to the sport.
+I wanted to explore the world of Sports Statistics and specifically focus on my favourite club, the mighty Leeds United. There is a huge amount of data recorded on all aspects of the sport, from overall match statistics down to the specific body part used to score goals. My initial plan was to collect a large amount of data on the club and sport as a whole, clean it and use it to build a database in MySQL. With the database built, I would write a number of queries to deliver specific and useful insight into how the team is performing and use Tableau to create a dashboard to visualise the data. With a large amount of data recorded and processed, I would attempt to answer a number of statistical questions related to the sport.
 
 ![Project Outline](Images/FinalProjectDiagram.png?raw=true "Project Outline")
 
 
 ## The Data
 
-With a large amount of data available, I explored a number of different sources that I could use to collect it. There are a number of sports statistics APIs, but many of the better ones require a paid licence key. I found the best sources for data were smaller, independent websites, where data scraping was trouble free and some even offer CSV files for direct download. Kaggle also had several large datasets with historical statistics from football matches around the world. User Zaeemnalla had a dataset containing  match records and statistics from past Premier League seasons.
+With a huge amount of data available, I explored a number of different sources that I could use to collect it. There are a number of sports statistics APIs, but many of the better ones require a paid licence key. I found the best sources for data were smaller, independent websites, where data scraping was trouble free and some even offer CSV files for direct download. Kaggle also had several large datasets with historical statistics from football matches around the world. User Zaeemnalla had a dataset containing  match records and statistics from past Premier League seasons.
 
 Using Python I was able to automate the process of collecting and combining data from numerous pages. I scraped a number of different tables into Pandas Dataframes and began to explore and clean the data. After gathering information that I thought was the most useful and relevant, I exported the clean dataframes to CSV files to be used for further analysis in SQL and Tableau.
 
@@ -62,7 +62,7 @@ Looking at the statistics for games played before the 2020 season, **46%** of th
 
 ## Delivering Insight
 
-Using the data collected, I wanted to create a tool used to deliver it to the public. Building an API server in Python, using the Flask library, I was able to create a number of routes that ran different queries on my database and returns the results back to the user as either a JSON file or rendered HTML page.
+Using the data collected, I wanted to create a tool used to deliver it to the public. Building an API in Python, using Flask libraries, I was able to create a number of routes that ran different queries on my database and returns the results back to the user as either a JSON file or rendered HTML page.
 
 ![API Diagram](Images/APIDiagram.png?raw=true, "API Diagram")
 
